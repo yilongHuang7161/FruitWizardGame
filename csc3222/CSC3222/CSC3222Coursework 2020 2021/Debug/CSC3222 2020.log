@@ -1,0 +1,32 @@
+﻿  FruitWizardGame.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\PlayerCharacter.h(19,26): warning C4240: 使用了非标准扩展: 对“NCL::CSC3222::PlayerCharacter::PlayerState”的访问现在被定义为“protected”，而以前被定义为“private”
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\PlayerCharacter.h(6): message : 参见“NCL::CSC3222::PlayerCharacter::PlayerState”的声明
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(79,56): warning C4305: “参数”: 从“double”到“float”截断
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(135,32): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(152,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(159,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(166,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(173,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(180,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(252,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(253,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(258,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(263,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(269,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(270,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(272,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(274,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(275,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(276,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(278,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(279,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(283,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(284,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(286,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(288,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(289,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(290,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(292,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\大三下\接单\游戏项目作业要求\csc3222\CSC3222\CSC3222Coursework 2020 2021\FruitWizardGame.cpp(293,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  CSC3222 2020.vcxproj -> D:\大三下\接单\游戏项目作业要求\csc3222\Win32\Debug\CSC3222 2020.exe

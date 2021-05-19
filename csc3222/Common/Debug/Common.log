@@ -1,0 +1,37 @@
+﻿  Camera.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GameTimer.cpp
+  Keyboard.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshAnimation.cpp
+  MeshGeometry.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Vector2.cpp
+  正在生成代码...
+  正在编译...
+  Vector3.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Win32Mouse.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Win32Window.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Window.cpp
+D:\大三下\接单\游戏项目作业要求\csc3222\Common\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  Common.vcxproj -> D:\大三下\接单\游戏项目作业要求\csc3222\Win32\Debug\Common.lib
